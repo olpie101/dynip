@@ -1,0 +1,5 @@
+# DYNIP
+
+DynIP is a dynamic IP worker used to keep your DNS records up to date with your cloud provide.
+This is done using Public IP API to retrieve the public IP in which the process is running and updating the DNS records on the corresponding cloud provider.
+Currently only Google Cloud platform is supported.
